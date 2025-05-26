@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Humans\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97120383-9BB7-461E-B422-EAC87BC25292}|Humans\\Humans.csproj|c:\\users\\asus\\source\\repos\\humans\\humans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97120383-9BB7-461E-B422-EAC87BC25292}|Humans\\Humans.csproj|solutionrelative:humans\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97120383-9BB7-461E-B422-EAC87BC25292}|Humans\\Humans.csproj|c:\\users\\asus\\source\\repos\\humans\\humans\\humanapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97120383-9BB7-461E-B422-EAC87BC25292}|Humans\\Humans.csproj|solutionrelative:humans\\humanapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humanapp.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Humans\\Humans\\Humanapp.cs",
+              "RelativeDocumentMoniker": "Humans\\Humanapp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Humans\\Humans\\Humanapp.cs",
+              "RelativeToolTip": "Humans\\Humanapp.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAD0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:01:08.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Humans\\Humans\\Program.cs",
+              "RelativeDocumentMoniker": "Humans\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Humans\\Humans\\Program.cs",
+              "RelativeToolTip": "Humans\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:00:34.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
